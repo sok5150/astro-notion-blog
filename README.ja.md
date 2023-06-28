@@ -115,5 +115,5 @@ Issue を作成してください。日本語で大丈夫です。
 Pull requests 歓迎です。
 
 ---
-
+thank you.
 astro-notion-blog は [otoyo/notion-blog](https://github.com/otoyo/notion-blog) をベースにしています。
